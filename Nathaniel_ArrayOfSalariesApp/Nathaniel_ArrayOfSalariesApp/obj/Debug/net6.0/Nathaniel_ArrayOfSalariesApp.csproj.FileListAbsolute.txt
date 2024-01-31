@@ -1,0 +1,15 @@
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.csproj.AssemblyReference.cache
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.AssemblyInfoInputs.cache
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.AssemblyInfo.cs
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.csproj.CoreCompileInputs.cache
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\bin\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.exe
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\bin\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.deps.json
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\bin\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.runtimeconfig.json
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\bin\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.dll
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\bin\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.pdb
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.dll
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\refint\Nathaniel_ArrayOfSalariesApp.dll
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.pdb
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\Nathaniel_ArrayOfSalariesApp.genruntimeconfig.cache
+C:\Users\npear\OneDrive\Desktop\C++ Folder\Nathaniel_ArrayOfSalariesApp\Nathaniel_ArrayOfSalariesApp\obj\Debug\net6.0\ref\Nathaniel_ArrayOfSalariesApp.dll

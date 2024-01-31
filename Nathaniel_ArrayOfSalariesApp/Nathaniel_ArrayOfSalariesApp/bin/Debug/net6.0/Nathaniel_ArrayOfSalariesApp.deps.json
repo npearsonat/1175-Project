@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Nathaniel_ArrayOfSalariesApp/1.0.0": {
+        "runtime": {
+          "Nathaniel_ArrayOfSalariesApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nathaniel_ArrayOfSalariesApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
